@@ -1,0 +1,70 @@
+/* Custom CSS styles */
+
+/* Adjust the carousel height */
+.carousel {
+    height: 350px;
+}
+
+/* Style the About Us section */
+.about-section {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+}
+
+.about-section h2 {
+    margin-bottom: 20px;
+}
+
+/* Style the Signup form */
+.signup-form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.modal-dialog {
+    max-width: 400px;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.signup-form-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.signup-form {
+    max-width: 500px;
+    width: 100%;
+    padding: 20px;
+    position: relative;
+}
+
+.signup-form img {
+    max-width: 100%;
+    height: auto;
+}
+
+.signup-form .left-image {
+    position: absolute;
+    top: 100px;
+    left: -300px;
+    width: 200px;
+    height: 50%;
+    border-radius: 50%;
+}
+
+.signup-form .right-image {
+    position: absolute;
+    top: 100px;
+    right: -300px;
+    width: 200px;
+    height: 50%;
+    border-radius: 50%;
+}
+
+
+
